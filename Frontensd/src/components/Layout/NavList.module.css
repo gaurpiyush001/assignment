@@ -1,0 +1,7 @@
+.leftNavList--items{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    list-style-type: none;
+    margin-bottom: 1.5rem;
+}

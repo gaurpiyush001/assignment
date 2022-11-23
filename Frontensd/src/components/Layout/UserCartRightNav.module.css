@@ -1,0 +1,26 @@
+.UserCart {
+    display: flex;
+    height: 5rem;
+}
+
+.UserCart__Link{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+}
+
+.UserCart__Link--img{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    margin-right: .3rem;
+    /* margin-bottom: -.4rem; */
+}
+
+.UserCart__Link--detail{
+
+    display: flex;
+    flex-direction: column;
+    font-size: .7rem;
+
+}

@@ -1,0 +1,5 @@
+.centerFeed{
+    width: 60%;
+    overflow-y: scroll;
+    height: 100vh;
+}

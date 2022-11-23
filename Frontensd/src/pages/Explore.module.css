@@ -1,0 +1,7 @@
+.explore{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
+    border-right: 1px solid black;
+}

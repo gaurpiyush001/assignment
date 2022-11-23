@@ -1,0 +1,19 @@
+.userCartBtn{
+    height: 3rem;
+    width: 5rem;
+    border: none;
+    border-radius: 3rem;
+    font-weight: 550;
+    background-color: rgb(29, 155, 240);
+    color: white;
+    transition: .3s all;
+    cursor: pointer;
+}
+
+.userCartBtn:hover{
+    transform: translateY(-0.3rem);
+}
+
+.leftNavBtn:active{
+    transform: translateY(0);
+}

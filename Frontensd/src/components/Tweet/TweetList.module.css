@@ -1,0 +1,4 @@
+.tweetList{
+    display: flex;
+    flex-direction: column;
+}

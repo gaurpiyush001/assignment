@@ -1,0 +1,13 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    border-right: 1px solid black;
+    align-items: center;
+}
+
+.home__tweetblock{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
